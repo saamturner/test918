@@ -1,0 +1,22 @@
+{
+  "audiovisual_files": {
+    "e3b1d077-8ee5-4a17-8815-35a1823b285c": {
+      "label": "S1576 , T86-246",
+      "is_offline": false,
+      "file_url": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-246.mp3"
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "WPA field recordings in Jacksonville (1939 recording expedition: Herbert Halpert). 1939-06-18. State Archives of Florida, Florida Memory. Accessed 31 Aug. 2024.<https://www.floridamemory.com/items/show/238024>",
+  "item_type": "Audio",
+  "label": "Interview 3",
+  "description": [
+    {
+      "text": "Zora Neale Hurston's WPA field recordings in Jacksonville, FL made for the Library of Congress on June 18, 1939 with Herbert Halpert."
+    }
+  ],
+  "created_at": "2024-09-18T20:11:29.569Z",
+  "created_by": "saamturner",
+  "updated_at": "2024-09-18T20:11:29.569Z",
+  "updated_by": "saamturner"
+}
